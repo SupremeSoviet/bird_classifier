@@ -15,6 +15,8 @@ from aiogram import Dispatcher
 from aiogram.client.session.aiohttp import AiohttpSession
 from aiogram import Bot
 import asyncio
+from dotenv import load_dotenv
+load_dotenv()
 
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
