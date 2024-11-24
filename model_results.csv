@@ -1,0 +1,6 @@
+Model,Accuracy,F1,Parameters
+bird,0.586,0.59,433479
+resnet18,0.961,0.961,11180103
+resnet18_quant,0.961,0.961,11176512
+squeeze,0.975,0.975,726087
+squeeze_distill,0.964,0.965,726087
