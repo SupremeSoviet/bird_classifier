@@ -9,8 +9,8 @@
 
 ## Файлы проекта
 - `weights/`: веса моделей
-- `training.ipynb`: Jupyter-ноутбук с обучением модели
-- `bot.py`: код Telegram-бота для распознавания
+- `training_new.ipynb`: Jupyter-ноутбук с обучением модели
+- `bot_new.py`: код Telegram-бота для распознавания
 - `requirements.txt`: зависимости проекта
 - `images/`: результаты обучения
 - `model_results.csv`: результаты обучения в .csv
